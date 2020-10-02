@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12380380-eb7b-4bdf-9342-ba7cde76a4a4" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/eersteWebsite/artikel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eersteWebsite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paarTabellen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websiteVanafSchets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websiteVanafSchets/img/elektriciteit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websiteVanafSchets/img/wilkens_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websiteVanafSchets/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,17 +50,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hzgEAZ7lBsjkKpCkJEgUKX4vZx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/websiteVanafSchets/CSS" />
+      <recent name="$PROJECT_DIR$/eersteWebsite" />
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +81,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601019220266</updated>
-      <workItem from="1601019221504" duration="960000" />
+      <workItem from="1601019221504" duration="1133000" />
+      <workItem from="1601368732989" duration="3000" />
+      <workItem from="1601384779881" duration="368000" />
+      <workItem from="1601450615159" duration="2568000" />
+      <workItem from="1601455818763" duration="281000" />
+      <workItem from="1601537287881" duration="4626000" />
+      <workItem from="1601623481002" duration="4823000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1601022851928</created>
@@ -77,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601023468777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1601024136438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601024136438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,16 +126,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601023473211">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601625590421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601023473211" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601625590421" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601024139681">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601024139681" />
   </component>
 </project>
