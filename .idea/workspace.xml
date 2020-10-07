@@ -20,16 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12380380-eb7b-4bdf-9342-ba7cde76a4a4" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/burton/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/pics/pythagoras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burton/formulier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burton/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burton/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/burton/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/burton/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,12 +73,16 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/burton/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/burton/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -103,7 +102,8 @@
       <workItem from="1601455818763" duration="281000" />
       <workItem from="1601537287881" duration="4626000" />
       <workItem from="1601623481002" duration="4823000" />
-      <workItem from="1601883643389" duration="7264000" />
+      <workItem from="1601883643389" duration="7407000" />
+      <workItem from="1602055022724" duration="3501000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1601022851928</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601024136438</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="burton education index done.">
+      <created>1601972035860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601972035860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,16 +155,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="burton education index done." />
+    <option name="LAST_COMMIT_MESSAGE" value="burton education index done." />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601625590421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601625590421" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601024139681">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601972038042">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601024139681" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601972038042" />
   </component>
 </project>
