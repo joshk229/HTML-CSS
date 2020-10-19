@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12380380-eb7b-4bdf-9342-ba7cde76a4a4" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/burton/formulier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burton/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/img/drums.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/img/gitaar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/img/saxofoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/img/trompet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/img/truemusic-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truemusic/truemusic.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/burton/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/burton/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/burton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/burton/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burton/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/burton/formulier.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -73,7 +78,10 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.login.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/truemusic/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/burton/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -103,7 +112,8 @@
       <workItem from="1601537287881" duration="4626000" />
       <workItem from="1601623481002" duration="4823000" />
       <workItem from="1601883643389" duration="7407000" />
-      <workItem from="1602055022724" duration="3501000" />
+      <workItem from="1602055022724" duration="10827000" />
+      <workItem from="1603095812634" duration="5139000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1601022851928</created>
@@ -133,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601972035860</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="login af en een begin aan formulier">
+      <created>1602059923407</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602059923407</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,16 +173,33 @@
     <MESSAGE value="git" />
     <MESSAGE value="test" />
     <MESSAGE value="burton education index done." />
-    <option name="LAST_COMMIT_MESSAGE" value="burton education index done." />
+    <MESSAGE value="login af en een begin aan formulier" />
+    <option name="LAST_COMMIT_MESSAGE" value="login af en een begin aan formulier" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601625590421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601625590421" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601972038042">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603097616789">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601972038042" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603097616789" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603097616788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603097616788" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603097616788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603097616788" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603097616789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603097616789" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1602059927475">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602059927475" />
   </component>
 </project>
