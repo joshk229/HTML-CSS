@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="12380380-eb7b-4bdf-9342-ba7cde76a4a4" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/truemusic/truemusic.css" beforeDir="false" afterPath="$PROJECT_DIR$/truemusic/truemusic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burton/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/burton/formulier.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +55,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/burton/pics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/truemusic" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/burton/pics" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/burton/pics" />
       <recent name="$PROJECT_DIR$/websiteVanafSchets/CSS" />
       <recent name="$PROJECT_DIR$/eersteWebsite" />
       <recent name="$PROJECT_DIR$/docs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/truemusic" />
+      <recent name="$PROJECT_DIR$/burton/pics" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -106,7 +107,8 @@
       <workItem from="1601883643389" duration="7407000" />
       <workItem from="1602055022724" duration="10827000" />
       <workItem from="1603095812634" duration="5281000" />
-      <workItem from="1603179098053" duration="1798000" />
+      <workItem from="1603179098053" duration="2455000" />
+      <workItem from="1603197111846" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1601022851928</created>
@@ -150,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603103264033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="truemusic is af">
+      <created>1603181550192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603181550192</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +184,8 @@
     <MESSAGE value="burton education index done." />
     <MESSAGE value="login af en een begin aan formulier" />
     <MESSAGE value="bijna klaar met truemusic alleen nog de finishing touch" />
-    <option name="LAST_COMMIT_MESSAGE" value="bijna klaar met truemusic alleen nog de finishing touch" />
+    <MESSAGE value="truemusic is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="truemusic is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601625590421">
@@ -198,10 +208,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603103318574" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603103266644">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603181554009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603103266644" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603181554009" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603180598839">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
