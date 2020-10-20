@@ -1,7 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
-    background-color:rgb(250,241,234);
+    background-color: white;
     font-family: 'Raleway', sans-serif;
     margin: 0px;
+}
+
+h3 {
+    color: rgb(220, 106, 94);
+    font-size: 22px;
+    font-weight: 600;
 }
 
 header{
@@ -30,23 +40,48 @@ li a{
     font-weight: 700;
 }
 
-h3{
-    color:rgb(220,106,94);
-    font-size: 22px;
-    font-weight: 600;
+@media all and (min-width:1200px ) {
+    div#wrapper {
+        width: 1200px;
+        margin: auto;
+    }
 }
+
+div#wrapper{
+    background-color:rgb(250,241,234);
+}
+
+    /*-- images --*/
 
 img#logo{
     width:320px;
 }
 
+img{
+    width: 100%;
+}
+
+        /*-- Sections and Footers --*/
 section, footer{
     padding: 20px;
+}
+
+@media all and (min-width:550px ) {
+    section#nieuws{
+        width: 40% ;
+        float: left;
+
+    }
+    section#insrtumenten{
+        width: 60%;
+        float: right;
+    }
 }
 
 footer{
     background-color:rgb(128,128,128);
     color: white;
+    clear: both;
 }
 
 footer h3{
@@ -61,5 +96,30 @@ footer h3{
         display: inline-block;
         border: none;
     }
+
+    @media all and (min-width:920px ) {
+        section#nieuws {
+            width: 30%;
+            float: left;
+
+        }
+
+        section#insrtumenten {
+            width: 70%;
+            float: right;
+        }
+
+        article{
+            display: inline-block;
+            width:48%;
+            margin-right:20px;
+        }
+
+        article:nth-child(even) {
+            margin-right: 0px;
+        }
+
+    }
+
 
 }
